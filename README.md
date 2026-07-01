@@ -40,7 +40,7 @@ hand-gesture-recognition/
 ├── index.py                  # Main Python script
 ├── gesture_recognizer.task   # Pre-trained MediaPipe gesture model
 ├── hand.jpg                  # Optional sample image (currently not used in runtime)
-└── ai.txt                    # Notes/snippets for landmark drawing
+
 ```
 
 ---
